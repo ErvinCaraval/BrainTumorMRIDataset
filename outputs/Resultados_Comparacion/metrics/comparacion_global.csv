@@ -1,0 +1,9 @@
+Metrica,Faster R-CNN,YOLOv8
+Precision,0.6676,0.8952
+Recall,0.7364,0.8641
+F1-Score,0.7003,0.8794
+mAP@0.5,0.7169,0.9284
+mAP@0.5:0.95,0.343,0.7343
+Mean IoU,0.7555,0.8914
+Tiempo inferencia (ms/img),91.69,25.45
+N Parametros (M),41.31,11.13

@@ -1,0 +1,4 @@
+Clase,mAP@0.5 Faster R-CNN,mAP@0.5 YOLOv8
+Glioma,0.2432,0.8739
+Meningioma,0.4078,0.9426
+Pituitary,0.3779,0.9687

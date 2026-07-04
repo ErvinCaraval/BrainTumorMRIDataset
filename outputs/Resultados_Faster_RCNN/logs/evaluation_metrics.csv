@@ -1,0 +1,4 @@
+metric,value
+mean_iou,0.464759702586022
+num_predictions,407
+num_ground_truth,407

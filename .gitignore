@@ -29,7 +29,7 @@ config.local.json
 # Heavy data and generated outputs
 DATASET/**
 
-outputs/**
+
 *.zip
 *.tar
 *.tar.gz
