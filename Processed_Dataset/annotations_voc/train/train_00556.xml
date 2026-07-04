@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<annotation>
+   <folder>images</folder>
+   <filename>train_00556.jpg</filename>
+   <size>
+      <width>640</width>
+      <height>640</height>
+      <depth>3</depth>
+   </size>
+   <object>
+      <name>Glioma</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>164</xmin>
+         <ymin>177</ymin>
+         <xmax>188</xmax>
+         <ymax>207</ymax>
+      </bndbox>
+   </object>
+</annotation>

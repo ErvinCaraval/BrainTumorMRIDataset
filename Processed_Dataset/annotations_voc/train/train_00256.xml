@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<annotation>
+   <folder>images</folder>
+   <filename>train_00256.jpg</filename>
+   <size>
+      <width>640</width>
+      <height>640</height>
+      <depth>3</depth>
+   </size>
+   <object>
+      <name>Meningioma</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>248</xmin>
+         <ymin>247</ymin>
+         <xmax>354</xmax>
+         <ymax>382</ymax>
+      </bndbox>
+   </object>
+</annotation>

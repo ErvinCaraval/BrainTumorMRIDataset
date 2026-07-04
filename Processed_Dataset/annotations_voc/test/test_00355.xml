@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<annotation>
+   <folder>images</folder>
+   <filename>test_00355.jpg</filename>
+   <size>
+      <width>640</width>
+      <height>640</height>
+      <depth>3</depth>
+   </size>
+   <object>
+      <name>Glioma</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>160</xmin>
+         <ymin>375</ymin>
+         <xmax>312</xmax>
+         <ymax>522</ymax>
+      </bndbox>
+   </object>
+</annotation>

@@ -1,0 +1,71 @@
+# Python virtual environments
+.venv/
+.venv311/
+venv/
+env/
+ENV/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter / notebooks checkpoints
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Environment and secrets
+.env
+.env.*
+*.env
+secrets.json
+config.local.json
+
+# Logs and runtime artifacts
+*.log
+*.out
+*.pid
+*.sqlite3
+*.db
+
+# Heavy data and generated outputs
+DATASET/**
+
+outputs/**
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.h5
+*.pth
+*.pt
+*.onnx
+*.pb
+*.weights
+*.bin
+*.npy
+*.npz
+
+# Model and training artifacts
+checkpoints/
+weights/
+runs/
+wandb/
+mlruns/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.swp
+*.swo
+
+# Package/build artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
